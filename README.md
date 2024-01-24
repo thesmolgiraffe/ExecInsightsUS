@@ -11,9 +11,9 @@ To shed light on these issues, this project aims to conduct exploratory analyses
 ## Final Notes
 Datasets execucomp and compustat are required to run the code. Please download them at your own risk from  WRDS (Wharton).
 
-1. Company information(Compustat Database) : Compustat-Capital IQ
+1. Company information (Compustat Database) : Compustat-Capital IQ
 Compustat > North America > Fundamental Annual.
-Observations are identified by variables gvkey (firm identifier )and fyear (fiscal year).
+Observations are identified by variables gvkey (firm identifier) and fyear (fiscal year).
 
 2. Executive compensation database (Execucomp Database): Compustat-Capital IQ
 Compustat > Execucomp > Annual Compensation.
